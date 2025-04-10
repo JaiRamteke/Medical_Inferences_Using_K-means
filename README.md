@@ -1,6 +1,6 @@
 # Medical_Inferences_Using_K-means
 
-Introduction
+Introduction -
 Medical imaging plays a crucial role in modern healthcare, particularly in the diagnosis and treatment of
 neurological disorders. Analyzing brain scans such as MRI and CT images requires identifying different
 types of tissues, including white matter, gray matter, cerebrospinal fluid, and the skull. Traditionally,
@@ -18,7 +18,7 @@ structural deformities. The study aims to explore the effectiveness of K-Means c
 imaging and evaluate its performance using various metrics.
 
 
-Conclusion
+Conclusion -
 In this study, we successfully implemented K-Means clustering for medical image segmentation. The
 use of DICOM images allowed us to work with real-world medical datasets, ensuring practical applicability. Through clustering, we segmented different brain tissues and visualized distinct anatomical
 structures.
